@@ -1,1 +1,1 @@
-# kalkulaotr-js
+# kalkulator-js
